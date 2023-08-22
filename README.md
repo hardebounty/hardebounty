@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hardebounty
-- 👀 I’m interested in software development and database administration
+- 👀 Interested in software development and database administration
 - 🌱 I’m currently learning JavaScript and hope to perfect my python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hardebounty@gmail.com
